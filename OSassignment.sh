@@ -40,7 +40,7 @@ do
             loop=1
             ;;
         *)
-            echo "Invalid option. Please select a valid option."
+            echo "Invald option given."
             ;;
     esac
 done
